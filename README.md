@@ -31,6 +31,7 @@ Multiplexers are capable of handling both analog and digital applications. In an
 What is Demultiplexer?
 
 De-multiplexer is also a device with one input and multiple output lines. It is used to send a signal to one of the many devices. The main difference between a multiplexer and a de-multiplexer is that a multiplexer takes two or more signals and encodes them on a wire, whereas a de-multiplexer does reverse to what the multiplexer does. 
+
 ![170912606-a30e4b74-1726-4430-b245-2c3c3d9c232d](https://user-images.githubusercontent.com/119389971/214246244-cbca0a3b-4ccb-48dc-9e0a-be09b08d8a4e.png)
 
 
